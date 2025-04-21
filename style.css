@@ -42,3 +42,20 @@ button:hover{
     background-color: #77a8f6;
     transition: all 0.3s;
 }
+
+body.dark{
+    backround-color: #1f2937;
+    color: #f3f4f6;
+    transition: all 0.3s;
+}
+
+body.dark. tarjeta{
+    backround-color: #374151;
+    transition: all 0.3s;
+}
+
+body.dark .tarjeta h1,
+body.dark .tarjeta p{
+    color: #f3f4f6
+    transition: all 0.3s;
+}
